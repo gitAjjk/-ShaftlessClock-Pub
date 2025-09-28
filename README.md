@@ -1,5 +1,7 @@
-# -ShaftlessClock-Pub
-Clockwork with no axis / shafts
+# ShaftlessClock V1.0
+Clockwork with no axis / shafts  
+Started on [hackaday](https://hackaday.io/project/196036/details/), but further maintained here.
+
 ## Version 1: Hollow 
 This is a set of large inside gears with small centre gears to next stage.   
 Each wheel is an hollow/inner gear; I used old vinyl LongPlayrecords (cheap and abundant available material) and this sets the max size I use.  
