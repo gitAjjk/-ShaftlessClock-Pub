@@ -20,3 +20,7 @@ To thrive the wheel each second, I expirimented with (ax-less):
 ## Easy cheat:  
 - Cheap dc motor from China
 - microcontroller driven motor
+
+# Faces; templates for wheels
+See [pdf for higher resolution ](https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/img/faces%20NL.pdf)  
+<img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/img/faces%20NL~.jpg" width="500">
