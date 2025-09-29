@@ -29,8 +29,10 @@ See [pdf for higher resolution ](https://github.com/gitAjjk/ShaftlessClockV1-Pub
 
 # Construct
 Use files in [repo](https://github.com/gitAjjk/ShaftlessClockV1-Pub/tree/main/techDraw) for lasercutting.   
-Make sure enough flanges and distancekeepers are produced.  
-Use flanges as template for drilling the three holes in the LP's.  
+- Make sure enough flanges and distancekeepers are produced.  
+- Use flanges as template for drilling the three holes in the LP's.  
+- Use distancekeepers to glue ring-segments to stirdy, solid, complete ring.  
+- 
 e.g.:  
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/techDraw/sm.jpg" width="500">
 
