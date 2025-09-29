@@ -33,3 +33,16 @@ Make sure enough flanges and distancekeepers are produced.
 Use flanges as template for drilling the three holes in the LP's.  
 e.g.:  
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/techDraw/sm.jpg" width="500">
+
+# 3D example:
+<img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/SingleStageExploded.png" width="300">  
+
+Check this:  
+- [3D .stl example](https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/SingleStage.stl)
+- [3D exploded view](https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/SingleStage%20exploded.stl)
+
+Shown here is one stage: 
+- Wheel N-1 : plate + gear + flange; inbetween 2 x ±0,1 mm distance washer
+- Wheel N   : Ring + 4 x distancekeepers + plate; inbetween ±0,5 mm distance washer. (Centre gear + flange of stage N are omitted)
+
+External render on e.g. [3dviewer.net](https://3dviewer.net)
