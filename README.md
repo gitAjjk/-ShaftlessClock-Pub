@@ -14,10 +14,12 @@ See ??TODO?? for templates.
 # Drive
 ## The outer-ringdrive couldn't be a motor because it has a shaft ;).  
 To thrive the wheel each second, I expirimented with (ax-less):  
-- A plane pendulum of about 30 cm (swing time: 1 second).
-- ["Conical pendulum"](https://en.wikipedia.org/wiki/Conical_pendulum)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Conical_pendulum.svg/375px-Conical_pendulum.svg.png" alt="Conical pendulum" width="100">  
-- Electromagnetically driven mechanism (todo).
-- Wobble (investigating)  
+- A plane pendulum of about 30 cm (swing time: 1 second).  
+- ["Conical pendulum"](https://en.wikipedia.org/wiki/Conical_pendulum)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Conical_pendulum.svg/375px-Conical_pendulum.svg.png" alt="Conical pendulum" width="100">   
+- Electromagnetically driven mechanism (todo).  
+- Wobble (investigating)
+
+Any (better) idea or variant, please make an issue or contact me.  
 
 ## Easy cheat:  
 - Cheap dc motor from China
