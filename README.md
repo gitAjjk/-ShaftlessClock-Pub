@@ -28,8 +28,8 @@ See [pdf for higher resolution ](https://github.com/gitAjjk/ShaftlessClockV1-Pub
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/img/faces%20NL~.jpg" width="500">
 
 # Construct
-Use files in [repo](https://github.com/gitAjjk/ShaftlessClockV1-Pub/tree/main/techDraw) for lasercutting.    
+Use files in [repo](https://github.com/gitAjjk/ShaftlessClockV1-Pub/tree/main/techDraw) for lasercutting.   
 Make sure enough flanges and distancekeepers are produced.  
-Use flanges as template for drilling the three holes in the LP's.
+Use flanges as template for drilling the three holes in the LP's.  
 e.g.:  
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/techDraw/sm.jpg" width="500">
