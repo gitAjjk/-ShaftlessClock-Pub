@@ -34,7 +34,7 @@ Use flanges as template for drilling the three holes in the LP's.
 e.g.:  
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/techDraw/sm.jpg" width="500">
 
-# 3D example:
+# 3D example of one stage:
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/SingleStageExploded.png" width="300">  
 
 Check this:  
