@@ -12,8 +12,9 @@ The small gears are rigid and concentric mounted on another LP, with decorative 
 See ??TODO?? for templates.  
 
 # Drive
+Easy way: Find or buil a 60 rpm motor.
 ## The outer-ringdrive couldn't be a motor because it has a shaft ;).  
-To thrive the wheel each second, I expirimented with (ax-less):  
+To thrive the wheel each second, I expirimented with (ax-less), but did not yet find a good functioning axless way:  
 - A plane pendulum of about 30 cm (swing time: 1 second).  
 - ["Conical pendulum"](https://en.wikipedia.org/wiki/Conical_pendulum)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Conical_pendulum.svg/375px-Conical_pendulum.svg.png" alt="Conical pendulum" width="100">   
 - Electromagnetically driven mechanism (todo).  
@@ -32,8 +33,10 @@ See [pdf for higher resolution ](https://github.com/gitAjjk/ShaftlessClockV1-Pub
 # Construct
 Use files in [repo](https://github.com/gitAjjk/ShaftlessClockV1-Pub/tree/main/techDraw) for lasercutting.   
 - Make sure enough flanges and distancekeepers are produced.  
-- Use flanges as template for drilling the three holes in the LP's.  
-- Use distancekeepers to glue/screw the ring-segments to stirdy, solid, complete ring.  
+- Use flanges as template for drilling the three holes in the LP's.
+- Rings:
+  - Use complete ring, takes more material waste
+  - Use distancekeepers to glue/screw the ring-segments to stirdy, solid, complete ring.  
 
 e.g.:  
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/techDraw/sm.jpg" width="500">
