@@ -2,7 +2,7 @@
 Clockwork with no axis / shafts  
 Started on [hackaday](https://hackaday.io/project/196036/details/), but further maintained here.
 
-## Version 1: Hollow 
+## Version Hollow 
 This is a set of large inside gears with small centre gears to next stage.   
 Each wheel is an hollow/inner gear; I used old vinyl LongPlayrecords (cheap and abundant available material) and this sets the max size I use.  
 The small gears are rigid and concentric mounted on another LP, with decorative pockets, with a litle distance and flanges.  
@@ -50,3 +50,6 @@ Shown here is one stage:
 - Wheel N   : Ring + 4 x distancekeepers + plate; inbetween ±0,5 mm distance washer. (Centre gear + flange of stage N are omitted)
 
 External render on e.g. [3dviewer.net](https://3dviewer.net)
+
+# Extra
+This is version 1 of my shaftless clocks; v2 and 3 are more nifty, but not (yet) public available.
