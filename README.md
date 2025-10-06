@@ -12,7 +12,6 @@ The small gears are rigid and concentric mounted on another LP, with decorative 
 See ??TODO?? for templates.  
 
 # Drive
-Easy way: Find or buil a 60 rpm motor.
 ## The outer-ringdrive couldn't be a motor because it has a shaft ;).  
 To thrive the wheel each second, I expirimented with (ax-less), but did not yet find a good functioning axless way:  
 - A plane pendulum of about 30 cm (swing time: 1 second).  
@@ -23,7 +22,7 @@ To thrive the wheel each second, I expirimented with (ax-less), but did not yet 
 Any (better) idea or variant, please make an issue or contact me.  
 
 ## Easy cheat:  
-- Cheap dc motor from China
+- Cheap 60 rpm motor from China
 - microcontroller driven motor
 
 # Faces; templates for wheels
