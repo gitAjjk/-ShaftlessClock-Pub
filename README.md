@@ -1,4 +1,4 @@
-# ShaftlessClock V1.0
+# ShaftlessClock
 Clockwork with no axis / shafts  
 Started on [hackaday](https://hackaday.io/project/196036/details/), but further maintained here.
 
@@ -33,8 +33,8 @@ See [pdf for higher resolution ](https://github.com/gitAjjk/ShaftlessClockV1-Pub
 Use files in [repo](https://github.com/gitAjjk/ShaftlessClockV1-Pub/tree/main/techDraw) for lasercutting.   
 - Make sure enough flanges and distancekeepers are produced.  
 - Use flanges as template for drilling the three holes in the LP's.  
-- Use distancekeepers to glue ring-segments to stirdy, solid, complete ring.  
-- 
+- Use distancekeepers to glue/screw the ring-segments to stirdy, solid, complete ring.  
+
 e.g.:  
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/techDraw/sm.jpg" width="500">
 
