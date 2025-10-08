@@ -42,15 +42,16 @@ e.g.:
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/techDraw/sm.jpg" width="500">
 
 # 3D example of one stage:
+Shown here is one stage: 
+- Top: Wheel N-1 stage : plate + gear + flange; inbetween 2 x ±0,1 mm distance washer   
+- Centre Gear N-1 stage: flange + gear (+ another gear) + f lange. Screwed to N-1 plate.  
+- Bottom: Wheel N stage : Ring (4 segments) + 4 x distancekeepers-for-connecting-segments + 4 x distancewashers + plate. (Centre gear + flange of stage N are omitted)
+When too much friction, apply double gears or several washers ±0,5 mm.  
 <img width="494" height="766" alt="SingleStageExploded" src="https://github.com/user-attachments/assets/f0e52f44-5ab0-4983-add1-7a260e1e0f5c" width="300" />
 
 Check this:  
 - [3D .stl example](https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/SingleStage.stl)
 - [3D exploded view](https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/SingleStage%20exploded.stl)
-
-Shown here is one stage: 
-- Wheel N-1 : plate + gear + flange; inbetween 2 x ±0,1 mm distance washer
-- Wheel N   : Ring + 4 x distancekeepers + plate; inbetween ±0,5 mm distance washer. (Centre gear + flange of stage N are omitted)
 
 External render on e.g. [3dviewer.net](https://3dviewer.net)
 
