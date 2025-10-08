@@ -42,7 +42,7 @@ e.g.:
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/techDraw/sm.jpg" width="500">
 
 # 3D example of one stage:
-<img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/SingleStageExploded.png" width="300">  
+<img width="494" height="766" alt="SingleStageExploded" src="https://github.com/user-attachments/assets/f0e52f44-5ab0-4983-add1-7a260e1e0f5c" width="300" />
 
 Check this:  
 - [3D .stl example](https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/SingleStage.stl)
