@@ -27,6 +27,7 @@ Any (better) idea or variant, please make an issue or contact me.
 
 # Faces; templates for wheels
 See [pdf for higher resolution ](https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/img/faces%20NL.pdf)  
+Feel free to improve stencil-version of [AmPmRaw.jpg](https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/img/AmPmRaw.jpg) and let me know!  
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/img/faces%20NL~.jpg" width="500">
 
 # Construct
