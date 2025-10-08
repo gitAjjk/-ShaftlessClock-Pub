@@ -35,7 +35,7 @@ Use files in [repo](https://github.com/gitAjjk/ShaftlessClockV1-Pub/tree/main/te
 - Make sure enough flanges and distancekeepers are produced.  
 - Use flanges as template for drilling the three holes in the LP's.
 - Rings:
-  - Use complete ring, takes more material waste
+  - Use complete ring, takes more material waste, or use single piece.   
   - Use distancekeepers to glue/screw the ring-segments to stirdy, solid, complete ring.  
 
 e.g.:  
