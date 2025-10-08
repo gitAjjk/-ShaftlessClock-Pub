@@ -41,7 +41,7 @@ Use files in [repo](https://github.com/gitAjjk/ShaftlessClockV1-Pub/tree/main/te
 e.g.:  
 <img src="https://github.com/gitAjjk/ShaftlessClockV1-Pub/blob/main/techDraw/sm.jpg" width="500">
 
-# 3D example of one stage:
+## 3D example of one stage:
 Shown here is one stage: 
 - Top: Wheel N-1 stage : plate
 - Centre Gear N-1 stage. Screwed to N-1 plate.  :
